@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">NavigationFlowlesson</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="shopname">KUBER JEWLLERS</string>
+    <string name="shopaddress">Vadodara,Gujarat, India</string>
+    <string name="ownername">Akash Soni</string>
+    <string name="ownercontctdetail">Cell :+91 - 9574340600 </string>
+    <string name="tv_videoactivity">Video Page</string>
+</resources>
